@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713615970219",
+    "project_id": "zoconut-b957d",
+    "storage_bucket": "zoconut-b957d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713615970219:android:aee516ceb7b70020a00cee",
+        "android_client_info": {
+          "package_name": "com.example.zoconut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713615970219-8coo3pm2eero43af3dogq03gs3q6r7mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrvN_V1SaIaH36LLb4RBmPtwSdx4HZ8Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713615970219-8coo3pm2eero43af3dogq03gs3q6r7mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
